@@ -1,8 +1,8 @@
 dts:
   # 开发者应该设置成自己的wx相关信息
   wx:
-    app-id: wx4901b319ace4f88a
-    app-secret: 45bae4a701e7ec35bca38fdedxxxxxx
+    app-id: wxea78a6e64f032dcd
+    app-secret: af9c7a083f463183ca324712985b2d97
     mch-id: 1538666666
     mch-key: 1538xxxxxx-1538xxxxxx-1538xxxxxx
     notify-url: https://test.dtsshop.com/demo/order/dtsNotify

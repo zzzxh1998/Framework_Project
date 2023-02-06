@@ -6,11 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="dts-wx-api" />
+        <module name="SpringBoot_Mybatis_start" />
         <module name="dts-dao" />
+        <module name="SpringBoot_Mybatis_start_1" />
+        <module name="SpringBoot_Mybatis_start_xml" />
+        <module name="dts-core" />
+        <module name="dts-wx-api" />
         <module name="dts-admin-api" />
         <module name="CourseDesionSpring" />
-        <module name="dts-core" />
+        <module name="SpringBootStudy" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -20,6 +24,10 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="SpringBootStudy" options="-parameters" />
+      <module name="SpringBoot_Mybatis_start" options="-parameters" />
+      <module name="SpringBoot_Mybatis_start_1" options="-parameters" />
+      <module name="SpringBoot_Mybatis_start_xml" options="-parameters" />
       <module name="dts-admin-api" options="-parameters" />
       <module name="dts-core" options="-parameters" />
       <module name="dts-dao" options="-parameters" />

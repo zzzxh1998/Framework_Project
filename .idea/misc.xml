@@ -9,6 +9,10 @@
       <list>
         <option value="$PROJECT_DIR$/SchoolCampusUsed/pom.xml" />
         <option value="$PROJECT_DIR$/dts-shop/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBootStudy/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBootStudy/SpringBoot_Mybatis_start/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBootStudy/SpringBoot_Mybatis_start_1/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBootStudy/SpringBoot_Mybatis_start_xml/pom.xml" />
       </list>
     </option>
   </component>

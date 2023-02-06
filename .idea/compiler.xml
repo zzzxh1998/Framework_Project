@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="SpringBoot_async" />
         <module name="SpringBoot_Mybatis_start" />
         <module name="dts-dao" />
         <module name="SpringBoot_Mybatis_start_1" />
@@ -15,6 +16,7 @@
         <module name="dts-admin-api" />
         <module name="CourseDesionSpring" />
         <module name="SpringBootStudy" />
+        <module name="SpringBoot_Transaction" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -28,6 +30,8 @@
       <module name="SpringBoot_Mybatis_start" options="-parameters" />
       <module name="SpringBoot_Mybatis_start_1" options="-parameters" />
       <module name="SpringBoot_Mybatis_start_xml" options="-parameters" />
+      <module name="SpringBoot_Transaction" options="-parameters" />
+      <module name="SpringBoot_async" options="-parameters" />
       <module name="dts-admin-api" options="-parameters" />
       <module name="dts-core" options="-parameters" />
       <module name="dts-dao" options="-parameters" />

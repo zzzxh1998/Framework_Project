@@ -7,15 +7,17 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="SpringBoot_async" />
-        <module name="SpringBoot_Mybatis_start" />
+        <module name="SpringBoot_Shiro" />
         <module name="dts-dao" />
-        <module name="SpringBoot_Mybatis_start_1" />
+        <module name="SpringBoot_reids" />
         <module name="SpringBoot_Mybatis_start_xml" />
         <module name="dts-core" />
         <module name="dts-wx-api" />
-        <module name="dts-admin-api" />
         <module name="CourseDesionSpring" />
         <module name="SpringBootStudy" />
+        <module name="SpringBoot_Mybatis_start" />
+        <module name="SpringBoot_Mybatis_start_1" />
+        <module name="dts-admin-api" />
         <module name="SpringBoot_Transaction" />
       </profile>
     </annotationProcessing>
@@ -30,8 +32,10 @@
       <module name="SpringBoot_Mybatis_start" options="-parameters" />
       <module name="SpringBoot_Mybatis_start_1" options="-parameters" />
       <module name="SpringBoot_Mybatis_start_xml" options="-parameters" />
+      <module name="SpringBoot_Shiro" options="-parameters" />
       <module name="SpringBoot_Transaction" options="-parameters" />
       <module name="SpringBoot_async" options="-parameters" />
+      <module name="SpringBoot_reids" options="-parameters" />
       <module name="dts-admin-api" options="-parameters" />
       <module name="dts-core" options="-parameters" />
       <module name="dts-dao" options="-parameters" />

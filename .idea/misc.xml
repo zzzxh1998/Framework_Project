@@ -15,6 +15,8 @@
         <option value="$PROJECT_DIR$/SpringBootStudy/SpringBoot_Mybatis_start_xml/pom.xml" />
         <option value="$PROJECT_DIR$/SpringBootStudy/SpringBoot_Transaction/pom.xml" />
         <option value="$PROJECT_DIR$/SpringBootStudy/SpringBoot_async/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBootStudy/SpringBoot_reids/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBootStudy/SpringBoot_Shiro/pom.xml" />
       </list>
     </option>
   </component>

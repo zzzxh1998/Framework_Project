@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -15,10 +16,12 @@
         <module name="dts-wx-api" />
         <module name="CourseDesionSpring" />
         <module name="SpringBootStudy" />
+        <module name="SpringBoot_ScheduledTasks" />
         <module name="SpringBoot_Mybatis_start" />
         <module name="SpringBoot_Mybatis_start_1" />
         <module name="dts-admin-api" />
         <module name="SpringBoot_Transaction" />
+        <module name="SpringBoot_MyBatis_1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -29,9 +32,11 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="SpringBootStudy" options="-parameters" />
+      <module name="SpringBoot_MyBatis_1" options="-parameters" />
       <module name="SpringBoot_Mybatis_start" options="-parameters" />
       <module name="SpringBoot_Mybatis_start_1" options="-parameters" />
       <module name="SpringBoot_Mybatis_start_xml" options="-parameters" />
+      <module name="SpringBoot_ScheduledTasks" options="-parameters" />
       <module name="SpringBoot_Shiro" options="-parameters" />
       <module name="SpringBoot_Transaction" options="-parameters" />
       <module name="SpringBoot_async" options="-parameters" />

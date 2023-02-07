@@ -3,8 +3,10 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SpringBootStudy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SpringBootStudy/SpringBoot_MyBatis_1" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SpringBootStudy/SpringBoot_Mybatis_start_1" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SpringBootStudy/SpringBoot_Mybatis_start_xml" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SpringBootStudy/SpringBoot_ScheduledTasks" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SpringBootStudy/SpringBoot_Shiro" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SpringBootStudy/SpringBoot_Transaction" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SpringBootStudy/SpringBoot_async" vcs="Git" />

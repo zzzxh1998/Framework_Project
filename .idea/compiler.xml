@@ -7,16 +7,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="SpringBoot_async" />
         <module name="SpringBoot_Shiro" />
         <module name="dts-dao" />
         <module name="SpringBoot_reids" />
         <module name="SpringBoot_Mybatis_start_xml" />
+        <module name="Wallet" />
         <module name="dts-core" />
         <module name="dts-wx-api" />
         <module name="CourseDesionSpring" />
         <module name="SpringBootStudy" />
         <module name="SpringBoot_ScheduledTasks" />
+        <module name="SpringBoot_JPA" />
         <module name="SpringBoot_Mybatis_start" />
         <module name="SpringBoot_Mybatis_start_1" />
         <module name="dts-admin-api" />
@@ -27,11 +28,13 @@
     <bytecodeTargetLevel>
       <module name="ReocketMQ" target="1.5" />
       <module name="RoctetMQ" target="1.5" />
+      <module name="SpringBoot_async" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="SpringBootStudy" options="-parameters" />
+      <module name="SpringBoot_JPA" options="-parameters" />
       <module name="SpringBoot_MyBatis_1" options="-parameters" />
       <module name="SpringBoot_Mybatis_start" options="-parameters" />
       <module name="SpringBoot_Mybatis_start_1" options="-parameters" />

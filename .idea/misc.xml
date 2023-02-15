@@ -14,11 +14,12 @@
         <option value="$PROJECT_DIR$/SpringBootStudy/SpringBoot_Mybatis_start_1/pom.xml" />
         <option value="$PROJECT_DIR$/SpringBootStudy/SpringBoot_Mybatis_start_xml/pom.xml" />
         <option value="$PROJECT_DIR$/SpringBootStudy/SpringBoot_Transaction/pom.xml" />
-        <option value="$PROJECT_DIR$/SpringBootStudy/SpringBoot_async/pom.xml" />
         <option value="$PROJECT_DIR$/SpringBootStudy/SpringBoot_reids/pom.xml" />
         <option value="$PROJECT_DIR$/SpringBootStudy/SpringBoot_Shiro/pom.xml" />
         <option value="$PROJECT_DIR$/SpringBootStudy/SpringBoot_MyBatis_1/pom.xml" />
         <option value="$PROJECT_DIR$/SpringBootStudy/SpringBoot_ScheduledTasks/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBootStudy/SpringBoot_JPA/pom.xml" />
+        <option value="$PROJECT_DIR$/user-wallet/pom.xml" />
       </list>
     </option>
   </component>

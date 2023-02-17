@@ -20,6 +20,7 @@
         <module name="SpringBoot_JPA" />
         <module name="SpringBoot_Mybatis_start" />
         <module name="SpringBoot_Mybatis_start_1" />
+        <module name="SpringBoot_AOP" />
         <module name="dts-admin-api" />
         <module name="SpringBoot_Transaction" />
         <module name="SpringBoot_MyBatis_1" />
@@ -34,6 +35,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="SpringBootStudy" options="-parameters" />
+      <module name="SpringBoot_AOP" options="-parameters" />
       <module name="SpringBoot_JPA" options="-parameters" />
       <module name="SpringBoot_MyBatis_1" options="-parameters" />
       <module name="SpringBoot_Mybatis_start" options="-parameters" />
